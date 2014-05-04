@@ -38,11 +38,11 @@ foreach ($nodeList as $node)
 </td>
 <td valign="top" width=20%>
 <ol>
-<li><h4>Rahmat Maulana  :117006148</h4>
-<li><h4>Aris Pratama    :117006144</h4>
-<li><h4>Andri A Rohman  :117006131</h4>
-<li><h4>Abdul Ajis      :117006127</h4>
-<li><h4>Azis Abdul Azis :117006138</h4>
+<li><h4>Rahmat Maulana      :117006148</h4>
+<li><h4>Aris Pratama        :117006144</h4>
+<li><h4>Andri Abdul  Rohman :117006131</h4>
+<li><h4>Abdul Ajis          :117006127</h4>
+<li><h4>Azis Abdul Azis     :117006138</h4>
 </ol>
 </td>
 </tr>
